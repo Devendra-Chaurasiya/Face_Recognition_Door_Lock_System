@@ -1,0 +1,32 @@
+[
+    {
+        "Use": "Home Security",
+        "User": "Member",
+        "Name": "Devendra",
+        "Phone_no": "123456789",
+        "Phone_no1": "1234560",
+        "Marital_status": "Un married",
+        "Aadhaar_no": 12345,
+        "Age": "19",
+        "DOB": "",
+        "Gender": "Male",
+        "Email_id": "dev12@gmail.com",
+        "Connection": "",
+        "PhotoSample": "YES"
+    },
+    {
+        "Use": "Home Security",
+        "User": "Member",
+        "Name": "anish",
+        "Phone_no": "9321503162",
+        "Phone_no1": "9321503162",
+        "Marital_status": "ALL",
+        "Aadhaar_no": 1234567890,
+        "Age": "19",
+        "DOB": "12-23-23",
+        "Gender": "Male",
+        "Email_id": "asdfghjkl",
+        "Connection": "",
+        "PhotoSample": "YES"
+    }
+]

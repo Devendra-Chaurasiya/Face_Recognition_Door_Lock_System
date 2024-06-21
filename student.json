@@ -1,0 +1,19 @@
+[
+    {
+        "dep": " Computer Science and Engineering",
+        "course": "FE",
+        "year": "2023-24",
+        "semester": "semester-2",
+        "Student_Id": "2",
+        "name": "sumit",
+        "div": "A",
+        "roll": "3",
+        "gender": "Male",
+        "dob": "",
+        "email": "",
+        "phone": "",
+        "address": "",
+        "teacher": "",
+        "PhotoSample": "YES"
+    }
+]
