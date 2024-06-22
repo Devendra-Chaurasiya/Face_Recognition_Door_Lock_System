@@ -1,4 +1,6 @@
-#############################################################    Detailed Description and Installation Commands     ###################################################################
+###########################Detailed Description and Installation Commands     ########################
+
+To Run the code open the code file and Run the main.py Code
 
 
 
